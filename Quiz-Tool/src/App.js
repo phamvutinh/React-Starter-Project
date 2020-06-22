@@ -3,8 +3,6 @@ import logo from "./logo.svg";
 import "./App.css";
 
 function App() {
-  const newVariable = "Hello";
-  const variable = "Hello";
   return (
     <div className="App">
       <header className="App-header">
